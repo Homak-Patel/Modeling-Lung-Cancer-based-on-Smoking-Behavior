@@ -1,0 +1,1001 @@
+FIPS_code,Lung Cancer,District,GeneticRisk,Status_Variable
+1001,73.9,Autauga,3,0
+1003,68.4,Baldwin,4,0
+1005,76.1,Barbour,5,0
+1007,86.4,Bibb Cou,6,1
+1009,73.1,Blount C,7,1
+1011,72.4,Bullock,5,0
+1013,58.5,Butler C,3,0
+1015,79.6,Calhoun,2,0
+1017,72.5,Chambers,6,1
+1019,85.9,Cherokee,4,0
+1021,70.5,Chilton,7,1
+1023,50.2,Choctaw,7,1
+1025,67.4,Clarke C,5,0
+1027,87.5,Clay Cou,6,1
+1029,85.8,Cleburne,3,0
+1031,72.1,Coffee C,6,1
+1033,78.3,Colbert,4,0
+1035,74.7,Conecuh,6,1
+1037,66.6,Coosa Co,7,1
+1039,78.5,Covingto,5,0
+1041,74.3,Crenshaw,6,1
+1043,66.2,Cullman,5,0
+1045,79,Dale Cou,7,1
+1047,70.9,Dallas C,7,1
+1049,62.8,DeKalb C,7,1
+1051,76.7,Elmore C,7,1
+1053,76.7,Escambia,2,0
+1055,77.4,Etowah C,3,0
+1057,77.3,Fayette,7,1
+1059,70.7,Franklin,3,0
+1061,83.8,Geneva C,6,1
+1063,84.7,Greene C,5,0
+1065,64.4,Hale Cou,7,1
+1067,70.1,Henry Co,3,0
+1069,68,Houston,2,0
+1071,80.6,Jackson,5,0
+1073,63.3,Jefferso,3,0
+1075,81.2,Lamar Co,6,1
+1077,65.7,Lauderda,7,1
+1079,88,Lawrence,6,1
+1081,55.7,Lee Coun,2,0
+1083,68.6,Limeston,3,0
+1085,57.1,Lowndes,1,0
+1087,56.2,Macon Co,4,0
+1089,61.9,Madison,3,0
+1091,64.9,Marengo,4,0
+1093,70.8,Marion C,6,1
+1095,78.6,Marshall,2,0
+1097,72.2,Mobile C,2,0
+1099,59.2,Monroe C,3,0
+1101,57.7,Montgome,2,0
+1103,77,Morgan C,2,0
+1105,66.4,Perry Co,1,0
+1107,64,Pickens,2,0
+1109,63.6,Pike Cou,2,0
+1111,66.6,Randolph,2,0
+1113,83.8,Russell,3,0
+1115,76.1,St. Clai,5,0
+1117,54,Shelby C,3,0
+1119,59.8,Sumter C,1,0
+1121,75.6,Talladeg,2,0
+1123,77.2,Tallapoo,1,0
+1125,69.2,Tuscaloo,2,0
+1127,92.4,Walker C,2,0
+1129,66.8,Washingt,7,1
+1131,71.6,Wilcox C,2,0
+1133,84.1,Winston,3,0
+2020,57,Anchorag,7,1
+2090,55.9,Fairbank,7,1
+2110,41.5,Juneau B,3,0
+2150,64.7,Kodiak I,2,0
+2261,67.1,Valdez-C,7,1
+4001,22.9,Apache C,2,0
+4003,47.7,Cochise,3,0
+4005,35,Coconino,7,1
+4007,50.9,Gila Cou,2,0
+4009,42.8,Graham C,3,0
+4011,51.9,Greenlee,7,1
+4012,50.9,La Paz C,3,0
+4013,50.6,Maricopa,7,1
+4015,75.2,Mohave C,2,0
+4017,37.2,Navajo C,7,1
+4019,48.9,Pima Cou,7,1
+4021,45.8,Pinal Co,2,0
+4023,33.6,Santa Cr,3,0
+4025,53,Yavapai,2,0
+4027,45.1,Yuma Cou,7,1
+5001,86.4,Arkansas,7,1
+5003,75.6,Ashley C,7,1
+5005,81.7,Baxter C,7,1
+5007,58.1,Benton C,7,1
+5009,72.7,Boone Co,6,1
+5011,84.2,Bradley,5,0
+5013,85.2,Calhoun,7,1
+5015,62.1,Carroll,7,1
+5017,82.3,Chicot C,6,1
+5019,79,Clark Co,7,1
+5021,103.9,Clay Cou,7,1
+5023,84.6,Cleburne,7,1
+5025,94,Clevelan,5,0
+5027,66.4,Columbia,7,1
+5029,73.8,Conway C,2,0
+5031,74,Craighea,5,0
+5033,82.4,Crawford,7,1
+5035,78,Crittend,7,1
+5037,73.4,Cross Co,6,1
+5039,88.6,Dallas C,7,1
+5041,84.5,Desha Co,7,1
+5043,68.4,Drew Cou,7,1
+5045,79.7,Faulkner,5,0
+5047,66.3,Franklin,7,1
+5049,66.2,Fulton C,5,0
+5051,81.1,Garland,2,0
+5053,97.4,Grant Co,3,0
+5055,88.9,Greene C,7,1
+5057,63.5,Hempstea,6,1
+5059,95.6,Hot Spri,5,0
+5061,89.4,Howard C,3,0
+5063,80.9,Independ,2,0
+5065,55.7,Izard Co,6,1
+5067,112.9,Jackson,4,0
+5069,94.5,Jefferso,7,1
+5071,96.4,Johnson,7,1
+5073,95.3,Lafayett,5,0
+5075,98.1,Lawrence,7,1
+5077,53.8,Lee Coun,3,0
+5079,62.3,Lincoln,6,1
+5081,82.7,Little R,4,0
+5083,84.1,Logan Co,6,1
+5085,93.4,Lonoke C,7,1
+5087,80.1,Madison,5,0
+5089,82.7,Marion C,6,1
+5091,83.5,Miller C,5,0
+5093,78.7,Mississi,7,1
+5095,91.3,Monroe C,7,1
+5097,73.6,Montgome,3,0
+5099,82.9,Nevada C,7,1
+5101,62.9,Newton C,2,0
+5103,88.6,Ouachita,3,0
+5105,97.4,Perry Co,7,1
+5107,93.4,Phillips,3,0
+5109,81.9,Pike Cou,6,1
+5111,108.7,Poinsett,5,0
+5113,71.7,Polk Cou,7,1
+5115,81.2,Pope Cou,3,0
+5117,87.5,Prairie,2,0
+5119,67.5,Pulaski,6,1
+5121,92.2,Randolph,3,0
+5123,62,St. Fran,6,1
+5125,74.8,Saline C,7,1
+5127,89.6,Scott Co,6,1
+5129,72.9,Searcy C,2,0
+5131,77.6,Sebastia,3,0
+5133,68.7,Sevier C,1,0
+5135,83.9,Sharp Co,4,0
+5137,71.9,Stone Co,3,0
+5139,84.5,Union Co,4,0
+5141,74.7,Van Bure,5,0
+5143,70.6,Washingt,2,0
+5145,91,White Co,2,0
+5147,115.3,Woodruff,3,0
+5149,89.1,Yell Cou,2,0
+6001,43.4,Alameda,2,0
+6005,62.4,Amador C,1,0
+6007,58.6,Butte Co,2,0
+6009,48.9,Calavera,2,0
+6011,51.3,Colusa C,2,0
+6013,47.4,Contra C,3,0
+6015,73,Del Nort,7,1
+6017,49.9,El Dorad,3,0
+6019,49.2,Fresno C,1,0
+6021,63.4,Glenn Co,2,0
+6023,53.4,Humboldt,1,0
+6025,41,Imperial,2,0
+6027,43.6,Inyo Cou,2,0
+6029,52.8,Kern Cou,7,1
+6031,45.4,Kings Co,2,0
+6033,74.7,Lake Cou,3,0
+6035,50,Lassen C,7,1
+6037,38.3,Los Ange,3,0
+6039,48,Madera C,3,0
+6041,40.6,Marin Co,2,0
+6043,51.1,Mariposa,7,1
+6045,50.2,Mendocin,2,0
+6047,53.7,Merced C,3,0
+6049,36,Modoc Co,7,1
+6051,23.9,Mono Cou,2,0
+6053,40.8,Monterey,3,0
+6055,48.4,Napa Cou,7,1
+6057,43.8,Nevada C,3,0
+6059,41.7,Orange C,2,0
+6061,46.5,Placer C,2,0
+6063,43.7,Plumas C,7,1
+6065,46.6,Riversid,7,1
+6067,55.6,Sacramen,2,0
+6069,40.1,San Beni,3,0
+6071,46.7,San Bern,2,0
+6073,46.7,San Dieg,7,1
+6075,48,San Fran,7,1
+6077,56,San Joaq,7,1
+6079,46,San Luis,7,1
+6081,42.7,San Mate,3,0
+6083,41,Santa Ba,6,1
+6085,40.4,Santa Cl,5,0
+6087,36,Santa Cr,7,1
+6089,59.5,Shasta C,7,1
+6093,57.3,Siskiyou,6,1
+6095,56.1,Solano C,7,1
+6097,48,Sonoma C,7,1
+6099,54.3,Stanisla,7,1
+6101,54.4,Sutter C,5,0
+6103,62.7,Tehama C,7,1
+6105,56.9,Trinity,6,1
+6107,43.9,Tulare C,5,0
+6109,54.3,Tuolumne,7,1
+6111,41.1,Ventura,7,1
+6113,43.2,Yolo Cou,6,1
+6115,62.2,Yuba Cou,7,1
+8001,51.2,Adams Co,7,1
+8003,43.6,Alamosa,7,1
+8005,46.3,Arapahoe,5,0
+8007,25.6,Archulet,7,1
+8009,72.5,Baca Cou,5,0
+8011,45.4,Bent Cou,6,1
+8013,33,Boulder,7,1
+8015,37.1,Chaffee,7,1
+8019,37.3,Clear Cr,6,1
+8021,30.4,Conejos,5,0
+8023,54.5,Costilla,3,0
+8027,57.9,Custer C,2,0
+8029,43,Delta Co,6,1
+8031,48.8,Denver C,4,0
+8035,35.9,Douglas,7,1
+8037,26.2,Eagle Co,7,1
+8039,47.4,Elbert C,5,0
+8041,48.3,El Paso,6,1
+8043,51.4,Fremont,3,0
+8045,47.1,Garfield,6,1
+8049,44.7,Grand Co,4,0
+8051,33.7,Gunnison,6,1
+8055,50.3,Huerfano,7,1
+8059,43.8,Jefferso,5,0
+8063,61.4,Kit Cars,6,1
+8067,32.1,La Plata,5,0
+8069,39.1,Larimer,7,1
+8071,41.1,Las Anim,7,1
+8073,49.2,Lincoln,2,0
+8075,38.3,Logan Co,7,1
+8077,55.6,Mesa Cou,2,0
+8081,46.7,Moffat C,3,0
+8083,38.9,Montezum,7,1
+8085,47.7,Montrose,3,0
+8087,55.9,Morgan C,6,1
+8089,30.6,Otero Co,5,0
+8093,29.2,Park Cou,7,1
+8095,55.2,Phillips,3,0
+8097,26,Pitkin C,2,0
+8099,62.6,Prowers,3,0
+8101,48.8,Pueblo C,3,0
+8105,26.7,Rio Gran,6,1
+8107,35.6,Routt Co,7,1
+8117,18.8,Summit C,6,1
+8119,40.8,Teller C,2,0
+8123,44.8,Weld Cou,3,0
+8125,49.8,Yuma Cou,1,0
+9001,54.6,Fairfiel,4,0
+9003,60.6,Hartford,3,0
+9005,61.4,Litchfie,4,0
+9007,64.8,Middlese,1,0
+9009,69.1,New Have,2,0
+9011,67.3,New Lond,2,0
+9013,60.9,Tolland,3,0
+9015,65.7,Windham,2,0
+10001,78.3,Kent Cou,2,0
+10003,67,New Cast,1,0
+10005,73.6,Sussex C,2,0
+11001,57.1,District,2,0
+12001,65.6,Alachua,2,0
+12003,94.2,Baker Co,3,0
+12005,85.6,Bay Coun,4,0
+12007,78.2,Bradford,3,0
+12009,71.9,Brevard,1,0
+12011,51.6,Broward,2,0
+12013,77.2,Calhoun,1,0
+12015,61.3,Charlott,2,0
+12017,80.9,Citrus C,2,0
+12019,78.9,Clay Cou,7,1
+12021,40.4,Collier,2,0
+12023,89.4,Columbia,3,0
+12027,55.7,DeSoto C,7,1
+12029,94.6,Dixie Co,3,0
+12031,76.1,Duval Co,3,0
+12033,75.4,Escambia,2,0
+12035,66,Flagler,7,1
+12037,83.8,Franklin,2,0
+12039,69,Gadsden,3,0
+12041,72.2,Gilchris,7,1
+12043,54.1,Glades C,2,0
+12045,85.7,Gulf Cou,3,0
+12047,73,Hamilton,7,1
+12049,77.9,Hardee C,3,0
+12051,65.2,Hendry C,4,0
+12053,74.7,Hernando,2,0
+12055,69.4,Highland,7,1
+12057,66.3,Hillsbor,7,1
+12059,76.1,Holmes C,2,0
+12061,67,Indian R,3,0
+12063,56.9,Jackson,2,0
+12065,44.5,Jefferso,7,1
+12067,99.8,Lafayett,7,1
+12069,74.8,Lake Cou,7,1
+12071,57.5,Lee Coun,7,1
+12073,55.1,Leon Cou,2,0
+12075,98.9,Levy Cou,6,1
+12077,68.3,Liberty,5,0
+12079,62.8,Madison,7,1
+12081,57.6,Manatee,7,1
+12083,81.7,Marion C,6,1
+12085,56.7,Martin C,7,1
+12087,55.7,Monroe C,7,1
+12089,79.5,Nassau C,7,1
+12091,69.4,Okaloosa,5,0
+12093,92.9,Okeechob,7,1
+12095,54.9,Orange C,2,0
+12097,53.6,Osceola,5,0
+12099,52.6,Palm Bea,7,1
+12101,76,Pasco Co,7,1
+12103,68.6,Pinellas,6,1
+12105,71.7,Polk Cou,7,1
+12107,95.8,Putnam C,7,1
+12109,63.6,St. John,7,1
+12111,62.2,St. Luci,5,0
+12113,73.5,Santa Ro,7,1
+12115,56.2,Sarasota,5,0
+12117,52.5,Seminole,4,0
+12119,61.5,Sumter C,3,0
+12121,82.2,Suwannee,7,1
+12123,88.1,Taylor C,6,1
+12127,71,Volusia,5,0
+12129,92.8,Wakulla,3,0
+12131,72.5,Walton C,2,0
+12133,74.1,Washingt,6,1
+13001,75.8,Appling,4,0
+13003,69.7,Atkinson,7,1
+13005,95.9,Bacon Co,7,1
+13007,77.1,Baker Co,5,0
+13009,74.9,Baldwin,2,0
+13011,61.1,Banks Co,3,0
+13013,90.4,Barrow C,6,1
+13015,88.7,Bartow C,4,0
+13017,80.1,Ben Hill,6,1
+13019,80.2,Berrien,7,1
+13021,79.7,Bibb Cou,5,0
+13023,67.5,Bleckley,6,1
+13025,80.8,Brantley,5,0
+13027,79.2,Brooks C,7,1
+13029,76,Bryan Co,7,1
+13031,75.4,Bulloch,2,0
+13033,80.1,Burke Co,7,1
+13035,89.9,Butts Co,2,0
+13037,51,Calhoun,3,0
+13039,72,Camden C,7,1
+13043,86.8,Candler,3,0
+13045,81.5,Carroll,6,1
+13047,68.1,Catoosa,5,0
+13049,61.7,Charlton,7,1
+13051,62.7,Chatham,3,0
+13053,79,Chattaho,2,0
+13055,90.3,Chattoog,1,0
+13057,68.5,Cherokee,3,0
+13059,58.5,Clarke C,6,1
+13061,65.8,Clay Cou,7,1
+13063,64.8,Clayton,6,1
+13065,99.5,Clinch C,2,0
+13067,57.6,Cobb Cou,3,0
+13069,76.3,Coffee C,1,0
+13071,87.2,Colquitt,4,0
+13073,60.3,Columbia,3,0
+13075,90.5,Cook Cou,4,0
+13077,61.7,Coweta C,2,0
+13079,108.1,Crawford,2,0
+13081,75.4,Crisp Co,2,0
+13083,82.3,Dade Cou,3,0
+13085,74.3,Dawson C,2,0
+13087,62.3,Decatur,2,0
+13089,51.7,DeKalb C,1,0
+13091,81.8,Dodge Co,2,0
+13093,59.9,Dooly Co,2,0
+13095,74.7,Doughert,2,0
+13097,74.1,Douglas,3,0
+13099,59.4,Early Co,2,0
+13103,86.3,Effingha,3,0
+13105,72.2,Elbert C,1,0
+13107,73,Emanuel,2,0
+13109,67.5,Evans Co,1,0
+13111,70.8,Fannin C,2,0
+13113,48.7,Fayette,2,0
+13115,77.7,Floyd Co,7,1
+13117,57.4,Forsyth,2,0
+13119,82.4,Franklin,3,0
+13121,52.9,Fulton C,7,1
+13123,71.7,Gilmer C,2,0
+13127,70.1,Glynn Co,3,0
+13129,90.7,Gordon C,2,0
+13131,76.5,Grady Co,7,1
+13133,71.8,Greene C,2,0
+13135,51.6,Gwinnett,3,0
+13137,61.7,Habersha,7,1
+13139,60.7,Hall Cou,2,0
+13141,36.5,Hancock,3,0
+13143,91.1,Haralson,7,1
+13145,60.4,Harris C,3,0
+13147,63.7,Hart Cou,3,0
+13149,105.8,Heard Co,2,0
+13151,59.8,Henry Co,7,1
+13153,69.2,Houston,7,1
+13155,67.3,Irwin Co,2,0
+13157,80.8,Jackson,3,0
+13159,72.4,Jasper C,2,0
+13161,73.9,Jeff Dav,7,1
+13163,58.6,Jefferso,7,1
+13165,68.8,Jenkins,7,1
+13167,67.1,Johnson,7,1
+13169,75.5,Jones Co,3,0
+13171,86.8,Lamar Co,6,1
+13173,63.7,Lanier C,5,0
+13175,70.3,Laurens,7,1
+13177,84.3,Lee Coun,7,1
+13179,81.3,Liberty,6,1
+13181,79.8,Lincoln,7,1
+13183,91.7,Long Cou,7,1
+13185,60.9,Lowndes,7,1
+13187,71.1,Lumpkin,5,0
+13189,66.8,McDuffie,7,1
+13191,56.4,McIntosh,1,0
+13193,67,Macon Co,5,0
+13195,87.2,Madison,7,1
+13197,54.7,Marion C,7,1
+13199,57.1,Meriweth,6,1
+13201,84.4,Miller C,7,1
+13205,77.4,Mitchell,7,1
+13207,84.2,Monroe C,7,1
+13209,60.3,Montgome,5,0
+13211,63.3,Morgan C,7,1
+13213,92.7,Murray C,5,0
+13215,68,Muscogee,7,1
+13217,79.5,Newton C,2,0
+13219,50.5,Oconee C,7,1
+13221,78.9,Oglethor,6,1
+13223,74.1,Paulding,5,0
+13225,87.5,Peach Co,3,0
+13227,83.3,Pickens,2,0
+13229,78,Pierce C,6,1
+13231,77.1,Pike Cou,4,0
+13233,97.2,Polk Cou,7,1
+13235,42.9,Pulaski,7,1
+13237,69.3,Putnam C,5,0
+13239,79.7,Quitman,1,0
+13241,66.1,Rabun Co,3,0
+13243,59.4,Randolph,6,1
+13245,70.3,Richmond,4,0
+13247,56.5,Rockdale,6,1
+13249,77.7,Schley C,7,1
+13251,83.3,Screven,5,0
+13253,68,Seminole,6,1
+13255,78.8,Spalding,5,0
+13257,75.4,Stephens,7,1
+13259,66.2,Stewart,7,1
+13261,71.7,Sumter C,2,0
+13263,76.8,Talbot C,7,1
+13267,91.2,Tattnall,2,0
+13269,69.3,Taylor C,3,0
+13271,51.6,Telfair,7,1
+13273,76,Terrell,3,0
+13275,76.4,Thomas C,6,1
+13277,74.8,Tift Cou,5,0
+13279,80.2,Toombs C,7,1
+13281,57.9,Towns Co,3,0
+13283,69.4,Treutlen,2,0
+13285,74.7,Troup Co,2,0
+13287,83.5,Turner C,3,0
+13289,89.3,Twiggs C,6,1
+13291,69.4,Union Co,7,1
+13293,84.1,Upson Co,6,1
+13295,86,Walker C,2,0
+13297,71.7,Walton C,3,0
+13299,72,Ware Cou,1,0
+13301,74,Warren C,4,0
+13303,65.8,Washingt,3,0
+13305,77.8,Wayne Co,4,0
+13309,61.5,Wheeler,7,1
+13311,71.1,White Co,2,0
+13313,72,Whitfiel,2,0
+13315,69.4,Wilcox C,3,0
+13317,61.4,Wilkes C,2,0
+13319,86.9,Wilkinso,2,0
+13321,81.9,Worth Co,1,0
+15003,47.6,Honolulu,2,0
+15007,40.9,Kauai Co,2,0
+15009,44.3,Maui Cou,2,0
+16001,51.4,Ada Coun,3,0
+16003,65.4,Adams Co,2,0
+16005,38.8,Bannock,3,0
+16007,36.5,Bear Lak,1,0
+16009,78.6,Benewah,2,0
+16011,32.3,Bingham,1,0
+16013,25.5,Blaine C,2,0
+16015,66.5,Boise Co,2,0
+16017,54.7,Bonner C,7,1
+16019,36.2,Bonnevil,2,0
+16021,47.1,Boundary,3,0
+16027,56,Canyon C,7,1
+16031,34.5,Cassia C,3,0
+16035,66.5,Clearwat,3,0
+16037,42.5,Custer C,2,0
+16039,71.4,Elmore C,7,1
+16043,44.5,Fremont,2,0
+16045,62.5,Gem Coun,3,0
+16047,67.7,Gooding,7,1
+16049,49.2,Idaho Co,2,0
+16051,34.1,Jefferso,3,0
+16053,52.9,Jerome C,7,1
+16055,59.3,Kootenai,3,0
+16057,51.8,Latah Co,7,1
+16059,45.7,Lemhi Co,2,0
+16061,61,Lewis Co,7,1
+16067,51.1,Minidoka,7,1
+16069,65.1,Nez Perc,2,0
+16073,38.5,Owyhee C,3,0
+16075,62.6,Payette,2,0
+16077,37.1,Power Co,7,1
+16079,97.3,Shoshone,7,1
+16083,50.9,Twin Fal,7,1
+16085,35.1,Valley C,7,1
+16087,67.5,Washingt,3,0
+17001,75.5,Adams Co,6,1
+17003,96.6,Alexande,5,0
+17005,71.7,Bond Cou,7,1
+17007,68.1,Boone Co,7,1
+17009,94.4,Brown Co,6,1
+17011,71.4,Bureau C,7,1
+17013,80.9,Calhoun,7,1
+17015,54.6,Carroll,7,1
+17017,95,Cass Cou,5,0
+17019,59,Champaig,7,1
+17021,94.9,Christia,2,0
+17023,78.4,Clark Co,5,0
+17025,80.9,Clay Cou,7,1
+17027,66.1,Clinton,7,1
+17029,76.4,Coles Co,6,1
+17031,62,Cook Cou,7,1
+17033,79.8,Crawford,7,1
+17035,84.5,Cumberla,7,1
+17037,70.4,DeKalb C,5,0
+17039,94.8,De Witt,7,1
+17041,64.2,Douglas,5,0
+17043,54.5,DuPage C,7,1
+17045,74.2,Edgar Co,7,1
+17047,91.3,Edwards,7,1
+17049,67.1,Effingha,6,1
+17051,54.4,Fayette,5,0
+17053,65.9,Ford Cou,3,0
+17055,105,Franklin,2,0
+17057,75.1,Fulton C,6,1
+17059,89.4,Gallatin,4,0
+17061,72,Greene C,7,1
+17063,85.9,Grundy C,7,1
+17065,88.3,Hamilton,5,0
+17067,78,Hancock,2,0
+17069,92.8,Hardin C,3,0
+17071,74.2,Henderso,6,1
+17073,73.6,Henry Co,4,0
+17075,75.7,Iroquois,6,1
+17077,71.9,Jackson,7,1
+17079,69.9,Jasper C,5,0
+17081,87.4,Jefferso,6,1
+17083,78.5,Jersey C,5,0
+17085,59.6,Jo Davie,7,1
+17087,79.4,Johnson,7,1
+17089,56.2,Kane Cou,3,0
+17091,73.7,Kankakee,7,1
+17093,56.7,Kendall,2,0
+17095,70.8,Knox Cou,3,0
+17097,57,Lake Cou,7,1
+17099,75.3,La Salle,3,0
+17101,82.4,Lawrence,6,1
+17103,62.8,Lee Coun,5,0
+17105,82.6,Livingst,7,1
+17107,95,Logan Co,3,0
+17109,70.3,McDonoug,2,0
+17111,64.7,McHenry,7,1
+17113,61.5,McLean C,3,0
+17115,93.4,Macon Co,6,1
+17117,83.4,Macoupin,7,1
+17119,84,Madison,6,1
+17121,88.7,Marion C,2,0
+17123,64.5,Marshall,3,0
+17125,96.3,Mason Co,1,0
+17127,102,Massac C,4,0
+17129,87.1,Menard C,3,0
+17131,73.4,Mercer C,4,0
+17133,58.3,Monroe C,2,0
+17135,91.2,Montgome,2,0
+17137,81.3,Morgan C,2,0
+17139,55.1,Moultrie,3,0
+17141,64.4,Ogle Cou,2,0
+17143,85.8,Peoria C,2,0
+17145,73.6,Perry Co,1,0
+17147,81.3,Piatt Co,2,0
+17149,71.1,Pike Cou,2,0
+17151,105.1,Pope Cou,2,0
+17153,117.1,Pulaski,3,0
+17155,75.3,Putnam C,3,0
+17157,74.1,Randolph,3,0
+17159,87.1,Richland,1,0
+17161,65.1,Rock Isl,2,0
+17163,75.8,St. Clai,1,0
+17165,86.3,Saline C,2,0
+17167,79.6,Sangamon,2,0
+17169,86.8,Schuyler,7,1
+17171,82.8,Scott Co,2,0
+17173,77.3,Shelby C,3,0
+17175,69.8,Stark Co,7,1
+17177,62,Stephens,7,1
+17179,83.9,Tazewell,3,0
+17181,102.9,Union Co,2,0
+17183,88.6,Vermilio,7,1
+17185,85.7,Wabash C,2,0
+17187,67.2,Warren C,3,0
+17189,67.5,Washingt,7,1
+17191,82.2,Wayne Co,2,0
+17193,87.9,White Co,3,0
+17195,68.5,Whitesid,7,1
+17197,69,Will Cou,3,0
+17199,101.1,Williams,3,0
+17201,71.7,Winnebag,2,0
+17203,58.8,Woodford,7,1
+18001,53.7,Adams Co,7,1
+18003,64,Allen Co,2,0
+18005,73.5,Bartholo,3,0
+18007,82,Benton C,2,0
+18009,84.7,Blackfor,7,1
+18011,59.3,Boone Co,7,1
+18013,67.7,Brown Co,7,1
+18015,71.2,Carroll,7,1
+18017,88.8,Cass Cou,2,0
+18019,89.2,Clark Co,6,1
+18021,83.2,Clay Cou,5,0
+18023,73.6,Clinton,7,1
+18025,98,Crawford,7,1
+18027,60.3,Daviess,6,1
+18029,85.2,Dearborn,7,1
+18031,64.1,Decatur,7,1
+18033,69.6,De Kalb,7,1
+18035,77.2,Delaware,5,0
+18037,51.7,Dubois C,7,1
+18039,64.3,Elkhart,7,1
+18041,74.1,Fayette,5,0
+18043,79.4,Floyd Co,7,1
+18045,80.8,Fountain,7,1
+18047,72.5,Franklin,6,1
+18049,80.8,Fulton C,7,1
+18051,68,Gibson C,7,1
+18053,83.6,Grant Co,7,1
+18055,75.4,Greene C,5,0
+18057,47.9,Hamilton,7,1
+18059,77,Hancock,5,0
+18061,98,Harrison,5,0
+18063,67.8,Hendrick,7,1
+18065,76.3,Henry Co,7,1
+18067,74.7,Howard C,6,1
+18069,60.4,Huntingt,5,0
+18071,80.9,Jackson,3,0
+18073,81.4,Jasper C,2,0
+18075,64.4,Jay Coun,6,1
+18077,84.5,Jefferso,4,0
+18079,93.5,Jennings,7,1
+18081,67,Johnson,7,1
+18083,78.3,Knox Cou,5,0
+18085,71.9,Kosciusk,2,0
+18087,53.9,Lagrange,3,0
+18089,71.5,Lake Cou,6,1
+18091,78.4,La Porte,4,0
+18093,81,Lawrence,6,1
+18095,81,Madison,7,1
+18097,80.1,Marion C,5,0
+18099,67.3,Marshall,6,1
+18101,73.7,Martin C,5,0
+18103,77.4,Miami Co,7,1
+18105,64.4,Monroe C,7,1
+18107,65.8,Montgome,3,0
+18109,83.2,Morgan C,7,1
+18111,66.9,Newton C,2,0
+18113,69.5,Noble Co,3,0
+18115,103.5,Ohio Cou,7,1
+18117,75.2,Orange C,3,0
+18119,80.1,Owen Cou,6,1
+18121,70.5,Parke Co,5,0
+18123,94.2,Perry Co,7,1
+18125,64.3,Pike Cou,3,0
+18127,69.9,Porter C,2,0
+18129,61.6,Posey Co,2,0
+18131,65.4,Pulaski,3,0
+18133,95.5,Putnam C,6,1
+18135,72.8,Randolph,7,1
+18137,72.8,Ripley C,6,1
+18139,83,Rush Cou,2,0
+18141,69.1,St. Jose,3,0
+18143,88.5,Scott Co,1,0
+18145,77.9,Shelby C,4,0
+18147,77,Spencer,3,0
+18149,97.5,Starke C,4,0
+18151,69.3,Steuben,7,1
+18153,83.9,Sullivan,2,0
+18155,71.5,Switzerl,2,0
+18157,60.9,Tippecan,3,0
+18159,72.4,Tipton C,2,0
+18161,53.6,Union Co,2,0
+18163,77.1,Vanderbu,1,0
+18165,95.5,Vermilli,2,0
+18167,80,Vigo Cou,2,0
+18169,66.4,Wabash C,2,0
+18171,56.3,Warren C,3,0
+18173,67.9,Warrick,7,1
+18175,93.5,Washingt,3,0
+18177,78.6,Wayne Co,1,0
+18179,58.7,Wells Co,2,0
+18181,71.9,White Co,1,0
+18183,69.4,Whitley,2,0
+19001,72,Adair Co,2,0
+19003,62.1,Adams Co,7,1
+19005,40.3,Allamake,2,0
+19007,77.5,Appanoos,3,0
+19009,43.6,Audubon,7,1
+19011,65.3,Benton C,7,1
+19013,73.7,Black Ha,3,0
+19015,65.7,Boone Co,2,0
+19017,42.7,Bremer C,7,1
+19019,77.3,Buchanan,2,0
+19021,48.4,Buena Vi,3,0
+19023,53.5,Butler C,7,1
+19025,49.3,Calhoun,2,0
+19027,65.3,Carroll,3,0
+19029,72.5,Cass Cou,7,1
+19031,60.5,Cedar Co,3,0
+19033,64.4,Cerro Go,7,1
+19035,47.5,Cherokee,2,0
+19037,60.3,Chickasa,7,1
+19039,72.8,Clarke C,7,1
+19041,54.4,Clay Cou,2,0
+19043,58.6,Clayton,3,0
+19045,67.9,Clinton,2,0
+19047,55.5,Crawford,7,1
+19049,63.2,Dallas C,7,1
+19051,48,Davis Co,7,1
+19053,64.7,Decatur,7,1
+19055,38.7,Delaware,6,1
+19057,80.3,Des Moin,6,1
+19059,63.9,Dickinso,5,0
+19061,60.9,Dubuque,7,1
+19063,69.6,Emmet Co,7,1
+19065,61.2,Fayette,6,1
+19067,62.3,Floyd Co,7,1
+19069,58,Franklin,7,1
+19071,62.7,Fremont,7,1
+19073,66.5,Greene C,5,0
+19075,48.8,Grundy C,7,1
+19077,64.2,Guthrie,5,0
+19079,65.7,Hamilton,5,0
+19081,54.1,Hancock,7,1
+19083,63.9,Hardin C,7,1
+19085,79.2,Harrison,6,1
+19087,76.7,Henry Co,7,1
+19089,56.2,Howard C,7,1
+19091,59.2,Humboldt,7,1
+19093,57.2,Ida Coun,5,0
+19095,51.7,Iowa Cou,7,1
+19097,57.1,Jackson,5,0
+19099,67.7,Jasper C,3,0
+19101,44.9,Jefferso,7,1
+19103,49.1,Johnson,7,1
+19105,64.3,Jones Co,6,1
+19107,65,Keokuk C,5,0
+19109,52,Kossuth,3,0
+19111,73.2,Lee Coun,2,0
+19113,66.5,Linn Cou,6,1
+19115,58,Louisa C,4,0
+19117,63.8,Lucas Co,7,1
+19119,51.6,Lyon Cou,7,1
+19121,51.8,Madison,5,0
+19123,70.1,Mahaska,7,1
+19125,61.7,Marion C,3,0
+19127,62.7,Marshall,6,1
+19129,68.3,Mills Co,4,0
+19131,45.5,Mitchell,6,1
+19133,68.7,Monona C,7,1
+19135,81.2,Monroe C,5,0
+19137,75.7,Montgome,6,1
+19139,60.6,Muscatin,5,0
+19141,44.8,O'Brien,7,1
+19143,40.6,Osceola,7,1
+19145,94.6,Page Cou,6,1
+19147,65.3,Palo Alt,7,1
+19149,56.3,Plymouth,2,0
+19151,43.8,Pocahont,3,0
+19153,73.7,Polk Cou,7,1
+19155,77.1,Pottawat,3,0
+19157,41.4,Poweshie,6,1
+19159,71.1,Ringgold,5,0
+19161,58.1,Sac Coun,7,1
+19163,67.7,Scott Co,3,0
+19165,57.1,Shelby C,2,0
+19167,39.3,Sioux Co,7,1
+19169,54,Story Co,3,0
+19171,60.8,Tama Cou,6,1
+19173,71,Taylor C,7,1
+19175,75.7,Union Co,6,1
+19177,88.1,Van Bure,2,0
+19179,78.5,Wapello,3,0
+19181,65.4,Warren C,1,0
+19183,50.9,Washingt,4,0
+19185,61,Wayne Co,3,0
+19187,63.6,Webster,4,0
+19189,59.4,Winnebag,7,1
+19191,35.2,Winneshi,2,0
+19193,72.6,Woodbury,2,0
+19195,44.6,Worth Co,3,0
+19197,53.7,Wright C,2,0
+21001,84.9,Adair Co,2,0
+21003,86.8,Allen Co,1,0
+21005,97.9,Anderson,2,0
+21007,79.2,Ballard,2,0
+21009,108.3,Barren C,2,0
+21011,104.6,Bath Cou,3,0
+21013,109.5,Bell Cou,7,1
+21015,86.9,Boone Co,3,0
+21017,95.4,Bourbon,1,0
+21019,90.4,Boyd Cou,2,0
+21021,72.1,Boyle Co,1,0
+21023,131.4,Bracken,2,0
+21025,120.8,Breathit,2,0
+21027,108.2,Breckinr,7,1
+21029,95.3,Bullitt,2,0
+21031,96.1,Butler C,3,0
+21033,99.1,Caldwell,7,1
+21035,77.4,Calloway,5,0
+21037,91,Campbell,3,0
+21039,111.2,Carlisle,2,0
+21041,120.7,Carroll,7,1
+21043,101.9,Carter C,2,0
+21045,112,Casey Co,3,0
+21047,79.3,Christia,7,1
+21049,90.3,Clark Co,2,0
+21051,119.9,Clay Cou,3,0
+21053,107.7,Clinton,7,1
+21055,84.7,Crittend,3,0
+21057,106.5,Cumberla,7,1
+21059,104.9,Daviess,2,0
+21061,98.7,Edmonson,7,1
+21063,74.4,Elliott,7,1
+21065,125.3,Estill C,2,0
+21067,70.9,Fayette,3,0
+21069,93,Fleming,2,0
+21071,139.5,Floyd Co,7,1
+21073,92.8,Franklin,7,1
+21075,96.3,Fulton C,7,1
+21077,123,Gallatin,7,1
+21079,91.8,Garrard,5,0
+21081,97,Grant Co,6,1
+21083,82,Graves C,5,0
+21085,122.8,Grayson,7,1
+21087,89.7,Green Co,7,1
+21089,105.6,Greenup,6,1
+21091,86.6,Hancock,7,1
+21093,101,Hardin C,7,1
+21095,126.6,Harlan C,7,1
+21097,103.2,Harrison,5,0
+21099,124.9,Hart Cou,7,1
+21101,97.5,Henderso,7,1
+21103,102.3,Henry Co,5,0
+21105,64.7,Hickman,7,1
+21107,84.3,Hopkins,7,1
+21109,102.7,Jackson,6,1
+21111,89,Jefferso,7,1
+21113,87.7,Jessamin,7,1
+21115,110.6,Johnson,7,1
+21117,90.1,Kenton C,5,0
+21119,121.9,Knott Co,7,1
+21121,119.7,Knox Cou,5,0
+21123,78.7,Larue Co,6,1
+21125,94.4,Laurel C,7,1
+21127,107.9,Lawrence,7,1
+21129,120.1,Lee Coun,6,1
+21131,147.6,Leslie C,5,0
+21133,120.7,Letcher,3,0
+21135,121.1,Lewis Co,2,0
+21137,100,Lincoln,6,1
+21139,109.5,Livingst,4,0
+21141,99.4,Logan Co,7,1
+21143,77.9,Lyon Cou,7,1
+21145,86.1,McCracke,5,0
+21147,163.2,McCreary,6,1
+21149,109.4,McLean C,3,0
+21151,90.4,Madison,6,1
+21153,107.7,Magoffin,4,0
+21155,94.2,Marion C,6,1
+21157,85,Marshall,7,1
+21159,132.7,Martin C,5,0
+21161,116.2,Mason Co,6,1
+21163,108.9,Meade Co,5,0
+21165,121.4,Menifee,7,1
+21167,91.4,Mercer C,7,1
+21169,116.7,Metcalfe,7,1
+21171,112.1,Monroe C,7,1
+21173,97.4,Montgome,2,0
+21175,100.6,Morgan C,3,0
+21177,102.4,Muhlenbe,7,1
+21179,93.7,Nelson C,3,0
+21181,108.8,Nicholas,6,1
+21183,120.7,Ohio Cou,5,0
+21185,73.4,Oldham C,7,1
+21187,84.9,Owen Cou,3,0
+21189,169.9,Owsley C,2,0
+21191,96.3,Pendleto,7,1
+21193,129,Perry Co,3,0
+21195,122.1,Pike Cou,6,1
+21197,153.9,Powell C,7,1
+21199,92.7,Pulaski,6,1
+21201,100.6,Robertso,2,0
+21203,115.8,Rockcast,3,0
+21205,87.2,Rowan Co,1,0
+21207,103.7,Russell,4,0
+21209,84.5,Scott Co,3,0
+21211,81.9,Shelby C,4,0
+21213,97.1,Simpson,7,1
+21215,86.1,Spencer,2,0
+21217,104.8,Taylor C,2,0
+21219,84.4,Todd Cou,3,0
+21221,79.6,Trigg Co,2,0
+21223,97.6,Trimble,2,0
+21225,105.3,Union Co,1,0
+21227,86.3,Warren C,2,0
+21229,72.8,Washingt,2,0
+21231,96.2,Wayne Co,2,0
+21233,101.3,Webster,3,0
+21235,121.1,Whitley,5,0
+21237,119.2,Wolfe Co,3,0
+21239,72.7,Woodford,1,0
+22001,80.4,Acadia P,2,0
+22003,70.6,Allen Pa,1,0
+22005,66.9,Ascensio,2,0
+22007,83.7,Assumpti,2,0
+22009,82.4,Avoyelle,7,1
+22011,77.4,Beaurega,2,0
+22013,80.8,Bienvill,3,0
+22015,71.5,Bossier,7,1
+22017,70.8,Caddo Pa,7,1
+22019,67.4,Calcasie,3,0
+22021,98.9,Caldwell,2,0
+22023,59.3,Cameron,7,1
+22025,93.2,Catahoul,2,0
+22027,65.8,Claiborn,3,0
+22029,73.9,Concordi,7,1
+22031,76.5,De Soto,2,0
+22033,54,East Bat,3,0
+22035,91.3,East Car,7,1
+22037,61.1,East Fel,3,0
+22039,83.7,Evangeli,5,0
+22041,76,Franklin,2,0
+22043,94.7,Grant Pa,7,1
+22045,75.9,Iberia P,7,1
+22047,94.7,Ibervill,2,0
+22049,75.9,Jackson,3,0
+22051,67.2,Jefferso,2,0
+22053,82.4,Jefferso,7,1
+22055,70.6,Lafayett,7,1
+22057,70,Lafourch,3,0
+22059,82.5,La Salle,2,0
+22061,59.1,Lincoln,7,1
+22063,82.5,Livingst,3,0
+22065,75.8,Madison,5,0
+22067,79.3,Morehous,7,1
+22069,63.7,Natchito,7,1
+22071,65.2,Orleans,3,0
+22073,76.8,Ouachita,2,0
+22075,72.2,Plaquemi,7,1
+22077,53.1,Pointe C,7,1
+22079,68.9,Rapides,5,0
+22081,67.1,Red Rive,7,1
+22083,76.7,Richland,6,1
+22085,63.6,Sabine P,5,0
+22087,94,St. Bern,7,1
+22089,67.7,St. Char,7,1
+22091,55.4,St. Hele,6,1
+22093,63.1,St. Jame,7,1
+22095,60.1,St. John,7,1
+22097,82.6,St. Land,7,1
+22099,77.6,St. Mart,5,0
+22103,66.3,St. Tamm,7,1
+22105,75.5,Tangipah,5,0
